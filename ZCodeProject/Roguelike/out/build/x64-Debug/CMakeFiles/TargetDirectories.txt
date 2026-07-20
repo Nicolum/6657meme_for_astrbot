@@ -1,3 +1,0 @@
-C:/Users/LENOVO/ZCodeProject/Roguelike/out/build/x64-Debug/CMakeFiles/Roguelike.dir
-C:/Users/LENOVO/ZCodeProject/Roguelike/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/LENOVO/ZCodeProject/Roguelike/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
